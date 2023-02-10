@@ -1,0 +1,30 @@
+body {
+  background-color: #5d5d5d;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+form {
+  background-color: #4c3a51;
+  color: #7b8fa1;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  width: 768px;
+  min-width: 500px;
+  box-shadow: 2px 2px 3px 1px rgb(43, 43, 43);
+  border-radius: 1.2em;
+}
+
+#error {
+  display: none;
+  color: #400e32;
+}
+
+#curent-datetime {
+  display: none;
+}
