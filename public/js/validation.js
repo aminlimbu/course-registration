@@ -20,19 +20,9 @@ $(document).ready(function () {
           email: "Please enter valid email address",
         }
       },
-    //   errorPlacement: function(error, element){
-        //   errorLabelContainer: "#errorDiv ul",
-        //   wrapper: "li";
-        // error.appendTo("#errorDiv");
-        // var errorDiv = element.attr("errorDiv");
-        // $("error" = deeorDiv).append(error);
-    //   },
         errorContainer: "#errorDiv",
         errorLabelContainer: "#errorDiv ul",
         wrapper: 'li',
-    //   erroorPlacement: function (error, element){
-    //     error.appendTo('#errorDiv');
-    //   },
       sumitHandler: function (form) {
         form.submit();
       }
