@@ -2,8 +2,8 @@
     // DB Params
     // define('DB_HOST', 'localhost');
     // define('DB_USER', 'root');
-    // define('DB_PASS', 'cG9*l2b_9joF)q.r');
-    // define('DB_NAME', 'blogs');
+    // define('DB_PASS', '');
+    // define('DB_NAME', '');
 
     // App Root; magic constant; gives us the path
     // dirname gives us the parent folder
